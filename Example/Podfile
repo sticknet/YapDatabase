@@ -1,6 +1,0 @@
-use_frameworks!
-target 'YapDatabaseX_Tests' do
-  pod 'YapDatabaseX', :path => '../'
-  
-  
-end
